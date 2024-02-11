@@ -26,7 +26,7 @@
 <h3 align="center">🛠️ Languages and Tools:</h3>
 <div display="flex" align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,mongodb,nodejs,express,postman,redux,sass,tailwind,styledcomponents,figma,xd,vite,vercel,github,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,mongodb,nodejs,express,postman,redux,sass,tailwind,styledcomponents,bootstrap,firebase,figma,xd,vite,vercel,github,git,vscode)](https://skillicons.dev)
 
 <br />
 
