@@ -1,7 +1,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Davit Dvalashvili</h1>
-<h3 align="center">Front-end Developer from Georgia</h3>
+<h3 align="center">Full-stack Developer from Georgia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davitdvalashvili&label=Profile%20views&color=0e75b6&style=flat" alt="davitdvalashvili" /> </p>
 
@@ -26,7 +26,7 @@
 <h3 align="center">🛠️ Languages and Tools:</h3>
 <div display="flex" align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,sass,bootstrap,tailwind,styledcomponents,figma,xd,vite,vercel,github,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,mongodb,nodejs,express,postman,redux,sass,tailwind,styledcomponents,figma,xd,vite,vercel,github,git,vscode)](https://skillicons.dev)
 
 <br />
 
