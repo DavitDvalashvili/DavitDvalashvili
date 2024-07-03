@@ -9,7 +9,7 @@
 
 - 👨‍💻 Check out my <a href="https://github.com/DavitDvalashvili?tab=repositories"><b>repositories</b></a> for all of my projects
 
-- 📫 How to reach me: **davitdvalashvili1996@gmail.com**
+- 📫 How to reach me: **davitdvalashvili@gmail.com**
 
 - ⚡ Fun fact: **In the world of code, every bug is the hidden opportunity of growth.**
 
