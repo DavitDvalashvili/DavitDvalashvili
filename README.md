@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davitdvalashvili&label=Profile%20views&color=0e75b6&style=flat" alt="davitdvalashvili" /> </p>
 
-- 🌱 I’m currently Mastering: **Full-stack Development**
+- 👨‍💻 I"m currently work at Logical systems company as **Junior Full-stack Developer**
 
 - 👨‍💻 Check out my <a href="https://github.com/DavitDvalashvili?tab=repositories"><b>repositories</b></a> for all of my projects
 
