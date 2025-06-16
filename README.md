@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davitdvalashvili&label=Profile%20views&color=0e75b6&style=flat" alt="davitdvalashvili" /> </p>
 
-- 👨‍💻 I"m currently work at Logical systems company as **Junior Full-stack Developer**
+- 👨‍💻 I"m currently work at Logical systems company as **Full-stack Developer**
 
 - 👨‍💻 Check out my <a href="https://github.com/DavitDvalashvili?tab=repositories"><b>repositories</b></a> for all of my projects
 
@@ -28,7 +28,7 @@
 <h3 align="center">🛠️ Languages and Tools:</h3>
 <div display="flex" align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,mongodb,nodejs,express,nextjs,postman,redux,sass,tailwind,styledcomponents,materialui,bootstrap,firebase,figma,xd,vite,vercel,github,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,mysql,mongodb,nodejs,express,nextjs,postman,redux,sass,tailwind,styledcomponents,materialui,bootstrap,firebase,figma,xd,vite,vercel,github,git,vscode)](https://skillicons.dev)
 
 <br />
 
