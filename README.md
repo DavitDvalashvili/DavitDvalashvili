@@ -1,9 +1,7 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
+<p align="left"> <img src="/davit_davalashvili_banner.png" alt="davitdvalashvili" /> </p>
 
 <h1 align="center">Hi 👋 I'm Davit Dvalashvili</h1>
 <h3 align="center">Full-stack Developer from Georgia</h3>
-
-<p align="left"> <img src="/davit_davalashvili_banner.png" alt="davitdvalashvili" /> </p>
 
 - 👨‍💻 I'm currently a **Software Engineer at Tourspace**, building a two-sided B2B/B2C SaaS platform for the tourism industry
 
