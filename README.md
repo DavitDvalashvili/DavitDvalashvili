@@ -9,7 +9,7 @@
 
 - 🚀 Recent projects: [Tourspace](https://tourspace.ge) · [Tourspace Business](https://business.tourspace.ge) · a fitness club management system · an automated parking system · an access control system
 
-- 👨‍💻 Check out my **[portfolio](https://davit-dvalashvili.vercel.app/)**
+- 👨‍💻 Check out my **[Portfolio](https://davit-dvalashvili.vercel.app/)**
 
 - 📫 Contact me: **davitdvalashvili@gmail.com**
 
